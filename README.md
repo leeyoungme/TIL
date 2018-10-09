@@ -8,6 +8,6 @@
 * css
 * html
 
-## 20181010
+## 20181011
+* list
 * class
-* function
